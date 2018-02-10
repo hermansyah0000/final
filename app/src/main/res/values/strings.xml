@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="mapel">
+        <item>Pilih Item</item>
+        <item value="sd">Daftar Drop Down  1</item>
+        <item>Daftar Drop Down  2</item>
+        <item>Daftar Drop Down  3</item>
+        <item>Daftar Drop Down  5</item>
+        <item>Daftar Drop Down  6</item>
+        <item>Daftar Drop Down  7</item>
+        <item>Daftar Drop Down  8</item>
+    </string-array>
+</resources>
